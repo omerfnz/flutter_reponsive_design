@@ -1,6 +1,6 @@
 # Flutter Responsive Design Template
+![Proje](https://raw.githubusercontent.com/omerfnz/flutter_reponsive_design/refs/heads/master/video.gif))
 
-https://raw.githubusercontent.com/omerfnz/flutter_reponsive_design/refs/heads/master/video.gif
 
 A modern, production-ready Flutter template that provides a robust, scalable, and maintainable foundation for building responsive apps across mobile, tablet, desktop, and web platforms. Built with MVVM architecture, SOLID principles, and best practices for clean code, accessibility, and performance.
 
