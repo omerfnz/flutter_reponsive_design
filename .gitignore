@@ -1,0 +1,55 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.cursor/
+.pub/
+build/
+flutter_*.png
+
+# IDEs & editors
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Generated files
+*.lock
+*.log
+*.tmp
+*.bak
+
+# Platform-specific
+android/.gradle/
+android/app/debug/
+android/app/profile/
+android/app/release/
+android/key.properties
+ios/Pods/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+macos/Pods/
+macos/Flutter/Flutter.framework
+macos/Flutter/Flutter.podspec
+macos/Flutter/Generated.xcconfig
+linux/
+build/
+web/
+windows/
+
+# Coverage
+coverage/
+
+# Personal
+*.local
+*.env
+
+# Project metadata and large/binary files
+.metadata
+video.gif
